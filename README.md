@@ -1,5 +1,12 @@
 # registryctl
 
+> **Moved:** Active development has moved to the public monorepo:
+> [`registrystack/registry-stack`](https://github.com/registrystack/registry-stack).
+> This repository is kept for pre-monorepo history and release tags. Use the
+> monorepo for new issues, pull requests, and releases.
+>
+> Monorepo paths: `crates/registryctl/` and `products/registryctl/`.
+
 `registryctl` is the local adopter CLI for Registry Commons.
 
 Install a pinned release without cloning this repo:
