@@ -2,10 +2,15 @@
 
 **Moved:** Active development has moved to the public monorepo:
 [`registrystack/registry-stack`](https://github.com/registrystack/registry-stack).
-This repository is kept for pre-monorepo history and release tags. Use the
-monorepo for new issues, pull requests, and releases.
 
-Monorepo paths: `crates/registryctl/` and `products/registryctl/`.
+This repository is retained for pre-monorepo history and release tags. File new
+issues and pull requests in the monorepo.
+
+Current source at monorepo ref `ab5a1d46df8715539f15d398804611e8ca9c52d9`:
+
+- [`crates/registryctl/`](https://github.com/registrystack/registry-stack/tree/ab5a1d46df8715539f15d398804611e8ca9c52d9/crates/registryctl)
+
+**Legacy status:** Current CLI development happens in the monorepo.
 
 `registryctl` is the local adopter CLI for Registry Commons.
 
